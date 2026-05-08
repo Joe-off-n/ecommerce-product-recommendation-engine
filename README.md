@@ -26,5 +26,3 @@ This project simulates a simple product recommendation engine for an e-commerce 
 2. Upload all files or push using Git
 3. Enable GitHub Pages if needed
 
-## Author
-Your Name
